@@ -56,3 +56,22 @@ ORDER BY COUNT(title) DESC;
 
 
 SELECT * FROM retiring_titles;
+
+-- create Mentorship Eligibility table
+
+SELECT DISTINCT ON (employees.emp_no)employees.emp_no,
+       employees.first_name,
+	   employees.last_name,
+	   employees.birth_date,
+	   employees_info.from_date,
+	   employees_info.to_date,
+	   titles.title
+INTO mentorship_eligibility
+FROM employees
+INNER JOIN employees_info ON employees.emp_no = employees_info.emp_no
+INNER JOIN titles ON employees.emp_no = employees_info.emp_no
+WHERE (employees.birth_date BETWEEN '1965/1/1' AND '12/31/1965')
+AND (employees_info.to_date = '9999/01/01')
+ORDER BY emp_no;
+
+SELECT * FROM mentorship_eligibility
