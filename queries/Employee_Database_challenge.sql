@@ -66,14 +66,14 @@ SELECT DISTINCT ON (employees.emp_no)employees.emp_no,
 	   employees_info.from_date,
 	   employees_info.to_date,
 	   titles.title
-INTO mentorship
+INTO mentorship_eli
 FROM employees
 INNER JOIN employees_info ON employees.emp_no = employees_info.emp_no
-INNER JOIN titles ON titles.emp_no = employees_info.emp_no
+INNER JOIN titles ON employees.emp_no = titles.emp_no
 WHERE (employees.birth_date BETWEEN '1965/1/1' AND '12/31/1965')
 AND (employees_info.to_date = '9999/01/01')
 ORDER BY emp_no;
 
 
-SELECT title, COUNT(*) FROM mentorship
+SELECT title, COUNT(*) FROM mentorship_eli
 GROUP BY title
