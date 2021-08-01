@@ -19,4 +19,4 @@ Comparing the current workforce per title to retiring employees per title we can
 
 The percentage of retiring Senior Engineers and Senior Staff is almost 30% of the current workforce. In the same category we find Technique Leaders with 4,502 out of 15,159 retiring which amounts to 29,7% . On the other hand, Engineers and Assistant Engineers are retiring at a far more reasonable rate of about 10% of current workforce. Engineers also make up the largest group of all titles. It is evident that the roles of Senior Engineer, Senior Staff, and Technique Leaders are the ones that need to be filled before the retirement wave is in effect. 
 
-
+![](images/mentorship.png)
