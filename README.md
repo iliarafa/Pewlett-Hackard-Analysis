@@ -11,7 +11,7 @@ As many current employees reach retirement age, we are aiming to determine the n
 - The ratio of *Senior Engineers and Senior Staff* to *Engineers and Staff* retiring is 2/1
 - There is an imbalance of eligible for mentorship retiring employees across departments.
 
-## Summary
+# Summary
 
 Comparing the current workforce per title to retiring employees per title we can calculate the percentage of employees retiring per title. This way we can mark the specific roles that require special attention and careful planning. 
 
@@ -34,3 +34,6 @@ A thousand Senior engineers and over over six thousand Senior Staff making over 
 
 ![](images/avg_salary_by_title.png) 
 
+## employee promotion
+
+Observing employees who were promoted to Senior positions within the company, we see that it takes 5 to 7 years for an employee to climb the ladder. If we knew what the year was we could run a query to estimate how many engineers and staff are ready to make their way to the senior titles; in other words how many of them are ready to fill the shoes of those retiring. This would also give a more accurate account of the suffuciency or insufficiency of eligible for retirement mentors. 
