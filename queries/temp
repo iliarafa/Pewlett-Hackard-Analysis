@@ -1,4 +1,0 @@
-select * from retiring_titles
-
-select employees_info.title, COUNT(*) from employees_info
-group by  title
