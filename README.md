@@ -26,4 +26,5 @@ In terms of availability of qualified retirement ready mentors we understand, lo
 
  While in departments like engineers, assistant engineers and staff the ratio of mentors to the total retiring from the departmemt is approximately 1 for 35, the ratio for Senior Engineers and Staff is 1 to 85. Technique Leader's ratio falls in the middle with approximately 1 eligible employee for every 60 retiring. This means the company has double trouble. First, the large numbers of Senior Employees and Technique leaders retiring and then the low number of eligible mentors who must undertake the task of guiding their replacements.  
 
+![](images/avg_salary_by_title)
 
