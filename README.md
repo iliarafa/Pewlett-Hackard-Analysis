@@ -20,7 +20,7 @@ Comparing the current workforce per title to retiring employees per title we can
 The percentage of retiring Senior Engineers and Senior Staff is almost 30% of the current workforce. In the same category we find Technique Leaders with 4,502 out of 15,159 retiring which amounts to 29,7% . On the other hand, Engineers and Assistant Engineers are retiring at a far more reasonable rate of about 10% of current workforce. Engineers also make up the largest group of all titles. It is evident that the roles of Senior Engineer, Senior Staff, and Technique Leaders are the ones that need to be filled before the retirement wave is in effect. 
 
 # Mentorship Availability
-In terms of availability of qualified retirement ready mentors we understand, looking at the table that not only there is a massive wave of retiring employees from senior positions but there is also an insufficient number of mentors waiting to welcome the employees coming to mount these positions.
+In terms of availability of qualified mentors we understand, looking at the table that not only there is a massive wave of employees reaching retirement from senior positions but there is also an insufficient number of mentors waiting to welcome the employees coming to mount these positions.
 
 ![](images/mentorship_numbers.png)
 
@@ -34,6 +34,6 @@ A thousand Senior engineers and over over six thousand Senior Staff making over 
 
 ![](images/avg_salary_by_title.png) 
 
-## employee promotion
+## Promotion Eligibility
 
-Observing employees who were promoted to Senior positions within the company, we see that it takes 5 to 7 years for an employee to climb the ladder. If we knew what the year was we could run a query to estimate how many engineers and staff are ready to make their way to the senior titles; in other words how many of them are ready to fill the shoes of those retiring. This would also give a more accurate account of the suffuciency or insufficiency of eligible for retirement mentors. 
+Observing employees who were promoted to Senior positions within the company, we see that it takes 5 to 7 years for an employee to climb the ladder. If we knew what the year was we could run a query to estimate how many engineers and staff are ready to make their way to the senior titles; in other words how many of them are ready to fill the shoes of those retiring. It would give us a snapshot of employee movement within the company. It would also give a more accurate account of the suffuciency or insufficiency of eligible for retirement mentors.
