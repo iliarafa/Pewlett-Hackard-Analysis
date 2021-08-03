@@ -9,7 +9,7 @@ As many current employees reach retirement age, we are aiming to determine the n
 - There are about 90,000 employees retiring. 
 - Senior employees, naturally, make up the largest group among those reaching retirement age. 
 - The ratio of *Senior Engineers and Senior Staff* to *Engineers and Staff* retiring is 2/1
-- There is an imbalance of eligible for mentorship retiring employees across departments.
+- There is an imbalance of eligible for mentorship employees across departments.
 
 # Summary
 
@@ -36,4 +36,4 @@ A thousand Senior engineers and over over six thousand Senior Staff making over 
 
 ## Promotion Eligibility
 
-Observing employees who were promoted to Senior positions within the company, we see that it takes 5 to 7 years for an employee to climb the ladder. If we knew what the year was we could run a query to estimate how many engineers and staff are ready to make their way to the senior titles; in other words how many of them are ready to fill the shoes of those retiring. It would give us a snapshot of employee movement within the company. It would also give a more accurate account of the suffuciency or insufficiency of eligible for retirement mentors.
+Observing employees who were promoted to Senior positions within the company, we see that it takes 5 to 7 years for an employee to climb the ladder. If we knew what the year was we could run a query to estimate how many engineers and staff are ready to make their way to the senior titles; in other words how many of them are ready to fill the shoes of those retiring. It would give us a snapshot of employee movement within the company. It would also give a more accurate account of the suffuciency or insufficiency of eligible mentorship employees.
